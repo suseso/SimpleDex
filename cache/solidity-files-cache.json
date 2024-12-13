@@ -6,7 +6,7 @@
       "contentHash": "0b94d9bede4822598960e721d5fad311",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
-        "version": "0.8.28",
+        "version": "0.8.24",
         "settings": {
           "evmVersion": "paris",
           "optimizer": {
@@ -44,7 +44,7 @@
       "contentHash": "681c532e816169606d13a5fe8b475074",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.28",
+        "version": "0.8.24",
         "settings": {
           "evmVersion": "paris",
           "optimizer": {

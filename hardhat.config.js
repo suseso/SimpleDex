@@ -9,7 +9,7 @@ module.exports = {
   solidity: "0.8.24",
   networks: {
     sepolia: {
-      url: `https://eth-sepolia.g.alchemy.com/v2/${ALCHEMY_API_KEY}`,
+      url: 'https://sepolia.infura.io/v3/7d2172940c2e4ae5b554b86f0122d744',
       accounts: [SEPOLIA_PRIVATE_KEY],
     },
   },
